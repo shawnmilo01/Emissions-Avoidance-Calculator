@@ -1,0 +1,12 @@
+{
+  "gridFactors": {
+    "peninsular": 0.5,
+    "sabah": 0.000539,
+    "sarawak": 0.000199
+  },
+  "sunPeakHours": 3.5,
+  "treeFactor": 0.04,
+  "carFactor": 4.71,
+  "homeKwh": 4140,
+  "bulbKwh": 116.8
+}
